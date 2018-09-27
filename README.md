@@ -9,6 +9,12 @@ FFI. It contains ghc, gcc, cabal, c2hs, and hsc2hs.
 nix-shell shell.nix
 ```
 
+## Examples
+
+[simple](simple/README.md)
+
+[pcre](pcre/README.md)
+
 ## References
 
 [References](references/README.md)
