@@ -11,10 +11,10 @@ nix-shell shell.nix
 
 ## Examples
 
-[simple](simple/README.md)
+[simple](simple)
 
-[pcre](pcre/README.md)
+[pcre](pcre)
 
 ## References
 
-[References](references/README.md)
+[References](references)
