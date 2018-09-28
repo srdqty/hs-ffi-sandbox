@@ -22,7 +22,6 @@ int main(int argc, char *argv[])
          offsetof(struct MyStruct, foo));
   printf("        pokeByteOff ptr %ld _bar\n",
          offsetof(struct MyStruct, bar));
-  printf("        return ()\n");
 
   return 0;
 }
