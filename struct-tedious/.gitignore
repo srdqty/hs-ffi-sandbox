@@ -1,0 +1,5 @@
+print_struct_storable
+*.o
+MyStruct.hs
+MyStruct
+MyStruct_stub.h
