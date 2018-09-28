@@ -13,3 +13,8 @@
 * https://github.com/haskell/hsc2hs
 * https://stackoverflow.com/questions/6009031/difference-between-hsc2hs-and-c2hs
 * https://github.com/jarrett/cpphs
+* https://wiki.haskell.org/FFI_complete_examples
+* https://wiki.haskell.org/FFI_cook_book
+* https://wiki.haskell.org/FFI_Introduction
+* https://wiki.haskell.org/GHC/Using_the_FFI
+* [Tackling the Awkward Squad](tackling-the-awkward-squad.pdf)
