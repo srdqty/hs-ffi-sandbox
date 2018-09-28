@@ -12,3 +12,4 @@
 * https://github.com/haskell/c2hs
 * https://github.com/haskell/hsc2hs
 * https://stackoverflow.com/questions/6009031/difference-between-hsc2hs-and-c2hs
+* https://github.com/jarrett/cpphs
