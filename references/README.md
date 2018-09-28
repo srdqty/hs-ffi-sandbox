@@ -18,3 +18,7 @@
 * https://wiki.haskell.org/FFI_Introduction
 * https://wiki.haskell.org/GHC/Using_the_FFI
 * [Tackling the Awkward Squad](tackling-the-awkward-squad.pdf)
+* [C -> Haskell](c2hs.pdf)
+* https://github.com/haskell/c2hs/wiki/User-Guide
+* https://github.com/haskell/c2hs/wiki/Usage-of-c2hs
+* https://github.com/haskell/c2hs/wiki/Implementation-of-Haskell-Binding-Modules
