@@ -12,3 +12,4 @@ See: http://book.realworldhaskell.org/read/interfacing-with-c-the-ffi.html
 ## TODO
 
 * Validate whether utf8 support is working as expected or not
+* write some tests using hspec
